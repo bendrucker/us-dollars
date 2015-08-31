@@ -1,0 +1,32 @@
+{
+  "name": "us-dollars",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Format US dollars ($)",
+  "license": "MIT",
+  "repository": "bendrucker/us-dollars",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "us",
+    "dollars",
+    "format"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "greatest": "~1.0.2",
+    "precision": "~1.0.0"
+  }
+}
