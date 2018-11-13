@@ -1,4 +1,4 @@
-# us-dollars [![Build Status](https://travis-ci.org/bendrucker/us-dollars.svg?branch=master)](https://travis-ci.org/bendrucker/us-dollars)
+# us-dollars [![Build Status](https://travis-ci.org/bendrucker/us-dollars.svg?branch=master)](https://travis-ci.org/bendrucker/us-dollars) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/us-dollars.svg)](https://greenkeeper.io/)
 
 > Format US dollars ($)
 
